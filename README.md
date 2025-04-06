@@ -23,14 +23,13 @@ This portfolio is designed to feel like you're browsing through an actual iMac s
 ## 👨‍💻 Author
 
 **Jainam Pokal**  
-Front-End Developer with 4+ years of experience working with Angular, Vue, and React. Currently contributing to IIoT platforms at i4Twins and previously worked at FaraaBeen.
+Front-End Developer of experience working with Javascript, Node.js, and MongoDb.
 
 ## 🧰 Tech Stack
 
-- **Frontend**: React / Vue / Angular  
-- **Styling**: Tailwind CSS, SCSS  
-- **Animations**: Framer Motion  
-- **Icons**: Lucide, Font Awesome  
+- **Frontend**: JavaScript / HTML / Bootstrap  
+- **Styling**: CSS   
+- **Icons**: Lucide, Font Awesome, Bootstrap  
 - **Deployment**: GitHub Pages / Vercel / Netlify
 
 ## 📂 Project Structure
