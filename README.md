@@ -5,7 +5,6 @@ Welcome to my iMac-inspired developer portfolio! This project showcases my skill
 ## 🌐 Live Demo
 
 🔗 [View Portfolio Live](my-portfolio-59cf65.netlify.app)  
-*(Replace with your actual deployed URL if different)*
 
 ## 📸 Screenshots
 
@@ -57,5 +56,5 @@ Want to connect or collaborate?
 
 - **Email**: pokaljainam@gmail.com
 
-- **LinkedIn**: linkedin.com/in/jainampokal
+- **LinkedIn**:[!LinkedIn](https://www.linkedin.com/in/jainam-pokal-484413243/)
 
