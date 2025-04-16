@@ -4,7 +4,7 @@ Welcome to my iMac-inspired developer portfolio! This project showcases my skill
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio Live](my-portfolio-59cf65.netlify.app)  
+🔗 [View Portfolio Live](https://my-portfolio-59cf65.netlify.app/)  
 
 ## 📸 Screenshots
 
